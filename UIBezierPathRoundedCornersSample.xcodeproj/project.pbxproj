@@ -13,6 +13,8 @@
 		FF3BC9571A04E7F30014033B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF3BC9561A04E7F30014033B /* Images.xcassets */; };
 		FF3BC95A1A04E7F30014033B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF3BC9581A04E7F30014033B /* LaunchScreen.xib */; };
 		FF3BC9661A04E7F30014033B /* UIBezierPathRoundedCornersSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF3BC9651A04E7F30014033B /* UIBezierPathRoundedCornersSampleTests.swift */; };
+		FF3BC9701A04E80B0014033B /* ClipRoundedCornersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF3BC96F1A04E80B0014033B /* ClipRoundedCornersView.swift */; };
+		FF3BC9721A04FD050014033B /* LayerRoundedCornersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF3BC9711A04FD050014033B /* LayerRoundedCornersView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		FF3BC95F1A04E7F30014033B /* UIBezierPathRoundedCornersSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIBezierPathRoundedCornersSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF3BC9641A04E7F30014033B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF3BC9651A04E7F30014033B /* UIBezierPathRoundedCornersSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBezierPathRoundedCornersSampleTests.swift; sourceTree = "<group>"; };
+		FF3BC96F1A04E80B0014033B /* ClipRoundedCornersView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClipRoundedCornersView.swift; sourceTree = "<group>"; };
+		FF3BC9711A04FD050014033B /* LayerRoundedCornersView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayerRoundedCornersView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			children = (
 				FF3BC94F1A04E7F30014033B /* AppDelegate.swift */,
 				FF3BC9511A04E7F30014033B /* ViewController.swift */,
+				FF3BC96F1A04E80B0014033B /* ClipRoundedCornersView.swift */,
+				FF3BC9711A04FD050014033B /* LayerRoundedCornersView.swift */,
 				FF3BC9531A04E7F30014033B /* Main.storyboard */,
 				FF3BC9561A04E7F30014033B /* Images.xcassets */,
 				FF3BC9581A04E7F30014033B /* LaunchScreen.xib */,
@@ -213,7 +219,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF3BC9521A04E7F30014033B /* ViewController.swift in Sources */,
+				FF3BC9721A04FD050014033B /* LayerRoundedCornersView.swift in Sources */,
 				FF3BC9501A04E7F30014033B /* AppDelegate.swift in Sources */,
+				FF3BC9701A04E80B0014033B /* ClipRoundedCornersView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
