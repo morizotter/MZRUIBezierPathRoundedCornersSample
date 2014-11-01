@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FF3BC9491A04E7F30014033B"
-               BuildableName = "UIBezierPathRoundedCornersSample.app"
-               BlueprintName = "UIBezierPathRoundedCornersSample"
-               ReferencedContainer = "container:UIBezierPathRoundedCornersSample.xcodeproj">
+               BuildableName = "MZRUIBezierPathRoundedCornersSample.app"
+               BlueprintName = "MZRUIBezierPathRoundedCornersSample"
+               ReferencedContainer = "container:MZRUIBezierPathRoundedCornersSample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FF3BC95E1A04E7F30014033B"
-               BuildableName = "UIBezierPathRoundedCornersSampleTests.xctest"
-               BlueprintName = "UIBezierPathRoundedCornersSampleTests"
-               ReferencedContainer = "container:UIBezierPathRoundedCornersSample.xcodeproj">
+               BuildableName = "MZRUIBezierPathRoundedCornersSampleTests.xctest"
+               BlueprintName = "MZRUIBezierPathRoundedCornersSampleTests"
+               ReferencedContainer = "container:MZRUIBezierPathRoundedCornersSample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FF3BC95E1A04E7F30014033B"
-               BuildableName = "UIBezierPathRoundedCornersSampleTests.xctest"
-               BlueprintName = "UIBezierPathRoundedCornersSampleTests"
-               ReferencedContainer = "container:UIBezierPathRoundedCornersSample.xcodeproj">
+               BuildableName = "MZRUIBezierPathRoundedCornersSampleTests.xctest"
+               BlueprintName = "MZRUIBezierPathRoundedCornersSampleTests"
+               ReferencedContainer = "container:MZRUIBezierPathRoundedCornersSample.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FF3BC9491A04E7F30014033B"
-            BuildableName = "UIBezierPathRoundedCornersSample.app"
-            BlueprintName = "UIBezierPathRoundedCornersSample"
-            ReferencedContainer = "container:UIBezierPathRoundedCornersSample.xcodeproj">
+            BuildableName = "MZRUIBezierPathRoundedCornersSample.app"
+            BlueprintName = "MZRUIBezierPathRoundedCornersSample"
+            ReferencedContainer = "container:MZRUIBezierPathRoundedCornersSample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FF3BC9491A04E7F30014033B"
-            BuildableName = "UIBezierPathRoundedCornersSample.app"
-            BlueprintName = "UIBezierPathRoundedCornersSample"
-            ReferencedContainer = "container:UIBezierPathRoundedCornersSample.xcodeproj">
+            BuildableName = "MZRUIBezierPathRoundedCornersSample.app"
+            BlueprintName = "MZRUIBezierPathRoundedCornersSample"
+            ReferencedContainer = "container:MZRUIBezierPathRoundedCornersSample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FF3BC9491A04E7F30014033B"
-            BuildableName = "UIBezierPathRoundedCornersSample.app"
-            BlueprintName = "UIBezierPathRoundedCornersSample"
-            ReferencedContainer = "container:UIBezierPathRoundedCornersSample.xcodeproj">
+            BuildableName = "MZRUIBezierPathRoundedCornersSample.app"
+            BlueprintName = "MZRUIBezierPathRoundedCornersSample"
+            ReferencedContainer = "container:MZRUIBezierPathRoundedCornersSample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
